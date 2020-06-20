@@ -30,4 +30,4 @@ I've looked all around the web and couldn't find where to change the code. I've 
 
 Original source: 
 http://nlp.seas.harvard.edu/2018/04/03/attention.html 
-The original source actually doesn't even 
+The original source actually doesn't even train the model and defaults to downloading pretrained weight from somewhere else lol. 
