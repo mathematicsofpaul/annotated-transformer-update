@@ -1,2 +1,2 @@
 # annotated-transformer-update
-Updates to the Harvard Annotated Transformer
+Updated to the Harvard Annotated Transformer to current pytorch. 
